@@ -1,0 +1,1 @@
+console.log(window.document);//will  genrate a output on console  with html element 
