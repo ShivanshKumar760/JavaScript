@@ -23,4 +23,4 @@ document.querySelector("body").style.margin="0px";
 
 //we can change the background color of any element if it is the property of that element
 document.getElementsByTagName("button")[0].style.backgroundColor="yellow";
-document.querySelector("div").style.backgroundColor="yellow";
+document.querySelector("div").style.backgroundColor="yellow"
