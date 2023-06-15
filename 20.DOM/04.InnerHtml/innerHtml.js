@@ -33,7 +33,7 @@ document.firstElementChild.lastElementChild.firstElementChild.innerHTML="DOM" //
 let heading1 = document.firstElementChild.lastElementChild.firstElementChild;
 
 console.log(heading1);
-//<h1>DOM</h1> ---1
+//<h1>DOM</h1> ---modified
 heading1.innerHTML="DOMresetedAgain"; 
 
 //innerHTML is the property of html element and it is not a method or function which does
