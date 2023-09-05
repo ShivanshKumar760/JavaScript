@@ -99,4 +99,4 @@ arr.splice(4,1,"May");
 d)And for sorting time complexity we will see in sorting module.
 
 
-e)forEach/map these are the function which iterate over array and that's why they have time complexity of O(N)
+e)forEach/map these are the function which iterate over array and that's why they have time complexity of O(N).
