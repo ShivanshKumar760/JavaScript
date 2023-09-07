@@ -36,7 +36,7 @@ function charCount(string)
 	0.make a object
 
 
-	->So to count the ocurrence of character we will have to visit each character ie we will have to iterate over string usin loop
+	->So to count the ocurrence of character we will have to visit ed ach character ie we will have to iterate over string usin loop
 
 	1.loop over string-to check each character.
 
